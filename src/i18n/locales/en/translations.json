@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "dashboards": {
+      "dashboards": "Dashboards",
+      "home": "Home"
+    },
+    "apps":{
+      "apps":"Apps",
+      "ai-chat": "AI Chat"
+    },
+    "settings": {
+      "settings": "Settings",
+      "general": "General",
+      "appearance": "Appearance"
+    }
+  }
+}
